@@ -1,4 +1,4 @@
-#Chat_AI_iOS and macOS App
+#Chat_AI_iOS and macOS App                                                                        
 The Chat_AI_iOS and macOS app allows you to engage in interactive conversations with an artificial intelligence (AI) model. 
 This app provides a user-friendly interface, accessible from the toolbar, to facilitate seamless communication with the AI.
 
