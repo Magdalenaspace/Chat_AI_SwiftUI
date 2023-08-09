@@ -1,4 +1,4 @@
-#Chat_AI_iOS and macOS App                  : 
+#Chat_AI_SwiftUI and macOS App                  : 
 
 The Chat_AI_iOS and macOS app, built using SwiftUI, allows you to engage in interactive conversations with an artificial intelligence (AI) model powered by ChatGPT.
 
